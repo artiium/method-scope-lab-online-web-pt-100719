@@ -1,4 +1,4 @@
-phrase = "It's-a me, Mario!"
+phrase = "Hooray! Mario has rescued Princess Peach"
 
 def catch_phrase(phrase)
   status = "rescued"
